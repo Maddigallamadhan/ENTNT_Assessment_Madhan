@@ -109,11 +109,11 @@ This application ensures seamless communication management, timely follow-ups, a
    ```bash
    git clone https://github.com/yourusername/calendar-communication-tracking.git
 2. Navigate to the project directory:
-```bash
-cd calendar-communication-tracking
+   ```bash
+   cd calendar-communication-tracking
 3. Install dependencies:
-```bash
-npm install
+   ```bash
+   npm install
 4. Start the development server:
-```bash
-npm start
+   ```bash
+   npm start
